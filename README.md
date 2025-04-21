@@ -42,4 +42,8 @@ Attrition Rate =
 
 DIVIDE([InactiveEmployees],[TotalEmployees],0)
 
+### ScreenShots
+
+![Image](https://github.com/user-attachments/assets/3af84d57-5acd-45fb-b535-e55bb2277bcb)
+
 
