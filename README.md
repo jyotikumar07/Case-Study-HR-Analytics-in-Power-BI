@@ -42,8 +42,21 @@ Attrition Rate =
 
 DIVIDE([InactiveEmployees],[TotalEmployees],0)
 
-### ScreenShots
+### Dashboard - Overview
 
 ![Image](https://github.com/user-attachments/assets/3af84d57-5acd-45fb-b535-e55bb2277bcb)
+
+### Dashboeard - Demographics
+
+![Demographics](https://github.com/user-attachments/assets/a958453f-5631-4b68-b50d-626e2cfdac10)
+
+### Dashboard - Performance
+
+![Performance Tracker](https://github.com/user-attachments/assets/153cbfa8-33d0-42b0-9ff0-84adef7fc31a)
+
+### Dashboard - Attrition
+
+![Attrition](https://github.com/user-attachments/assets/21377b4c-56b4-4c1d-8e25-1636dbc9999c)
+
 
 
