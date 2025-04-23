@@ -23,6 +23,9 @@ The central point of our model was the fact table named “Performance Rating”
 
 We worked with multiple dimension tables: Employee, EducationLevel, RatingLevel, SatisfiedLevel, and Date. These tables provided more context to the data – the who, what, when, where, and why.
 
+![Screenshot 2025-04-23 141403](https://github.com/user-attachments/assets/7c22949d-2e2a-4323-990e-6c52ed27280e)
+
+
 ### Writing DAX Measures
 We created many measures for KPI’s and visualization purposes. Some of them are as follows:
 
