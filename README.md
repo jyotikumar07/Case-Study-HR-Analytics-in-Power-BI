@@ -44,19 +44,35 @@ DIVIDE([InactiveEmployees],[TotalEmployees],0)
 
 ### Dashboard - Overview
 
-![Image](https://github.com/user-attachments/assets/3af84d57-5acd-45fb-b535-e55bb2277bcb)
+![Screenshot 2025-04-23 140433](https://github.com/user-attachments/assets/b96337ec-cd6d-4be0-9561-140ccea9f41a)
+
 
 ### Dashboeard - Demographics
 
-![Demographics](https://github.com/user-attachments/assets/a958453f-5631-4b68-b50d-626e2cfdac10)
+![Screenshot 2025-04-23 140453](https://github.com/user-attachments/assets/4c082451-ada9-4880-a184-4a3e24c73336)
+
 
 ### Dashboard - Performance
 
-![Performance Tracker](https://github.com/user-attachments/assets/153cbfa8-33d0-42b0-9ff0-84adef7fc31a)
+![Screenshot 2025-04-23 140508](https://github.com/user-attachments/assets/061b6c5f-df6d-4038-9cba-fa135316c903)
+
 
 ### Dashboard - Attrition
 
-![Attrition](https://github.com/user-attachments/assets/21377b4c-56b4-4c1d-8e25-1636dbc9999c)
+![Screenshot 2025-04-23 140522](https://github.com/user-attachments/assets/6961cbab-655a-404c-a36b-f5e4f96bd95c)
+
+
+### Insights
+-	Atlas Labs has 1470 employees, with approximately 1200 active and 250 inactive.
+-	With approximately 800 employees, our technology department is the largest within the organization.
+-	We have a team of roughly 270 sales executives.
+-	The age range of our employees is from 18 to 51, with a significant 60% falling within the 20-29 age bracket.
+-	The ethnic makeup of our workforce includes 58% identified as white.
+-	Factors affecting the attrition rate are Frequent travelling and Overtime requirements.
+-	A notable spike in employee attrition occurred in 2016 and 2020.
+-	We are experiencing a 40 percent attrition rate among our sales representatives, the highest across all job roles.
+-	Employees with one year of tenure have the highest attrition rate at 34%.
+
 
 
 
