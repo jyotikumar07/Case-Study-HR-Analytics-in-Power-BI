@@ -3,18 +3,20 @@
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/2ec168c9-d065-4c00-9e91-98a08a749f57/6aad9a609ff3e1362329?experience=power-bi
 
 ## Project Objective
-Designed a Report for the HR team of a Tech company called Atlas Labs, which wants to monitor key metrics and understand what factors impact employee attrition. This will help them determine what actions must be taken to retain the employees. 
+Design a Report for the HR team of a Tech company called Atlas Labs, they wants to monitor key metrics and understand what factors impact employee attrition. This will help them determine what actions must be taken to retain the employees. 
 
 ## Process
+
 ### Loading and preparing Datasets
 
-We connected 5 CSV (Comma Separated Values) files    and added a prefix “Dim” or “Fact” in each table name, depending on the type of table.
+Connected 5 CSV (Comma Separated Values) files and added a prefix “Dim” or “Fact” in each table name, depending on the type of table.
 
-We created a dedicated “Date” table for accurate date and time reporting. 
+Created a dedicated “Date” table for accurate date and time reporting. 
 
-Then, we reviewed the tables to ensure the columns are correctly formatted as text, numbers, and dates. 
+Then, reviewed the tables to ensure the columns are correctly formatted as text, numbers, and dates. 
 
 ### Building the Data Model
+
 Using the Kimball Model approach, we worked with facts and dimensions tables to build our model.
 
 Our final data model followed the Snowflake Schema. 
@@ -27,6 +29,7 @@ We worked with multiple dimension tables: Employee, EducationLevel, RatingLevel,
 
 
 ### Writing DAX Measures
+
 We created many measures for KPI’s and visualization purposes. Some of them are as follows:
 
 TotalEmployeesDate =
@@ -65,7 +68,7 @@ DIVIDE([InactiveEmployees],[TotalEmployees],0)
 ![Screenshot 2025-04-23 140522](https://github.com/user-attachments/assets/6961cbab-655a-404c-a36b-f5e4f96bd95c)
 
 
-### Insights
+## Insights
 -	Atlas Labs has 1470 employees, with approximately 1200 active and 250 inactive.
 -	With approximately 800 employees, our technology department is the largest within the organization.
 -	We have a team of roughly 270 sales executives.
